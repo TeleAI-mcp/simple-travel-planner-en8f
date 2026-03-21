@@ -1,2 +1,3 @@
-# simple-travel-planner-en8f
+# Simple Travel Planner En8F
+
 A travel planning application for modern development workflows.
